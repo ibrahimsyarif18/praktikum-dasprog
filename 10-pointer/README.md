@@ -31,6 +31,9 @@ Buat `struct Unit` yang memiliki variabel:
 
 ## Contoh Output
 
+<img width="720" height="290" alt="Screenshot 2026-11-03 064822" src="https://github.com/user-attachments/assets/12449286-127e-48ca-ba1d-715b7abc59d7" />
+
+
 ```text
 ==============================================
  TURN-BASED BATTLE PARTY & TARGET LOCK ENGINE
